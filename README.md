@@ -1,5 +1,5 @@
-Author: Valentin Cain /
-Current Version: Alpha /
+Author: Valentin Cain  
+Current Version: Alpha  
 Date: 10/1/2022
 
 Alpha Build for python script to crack unsalted hashes. Currently Supported 
